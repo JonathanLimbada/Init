@@ -1,0 +1,2 @@
+# cat /var/run/sshd.pid
+# this command will display the PID of the SSHD service.
