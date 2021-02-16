@@ -1,3 +1,1 @@
-# iptables -L
-# This command will only work on a real instance of ubuntu, not a VM.
-# The Windows 10 ubuntu VM does not have iptables, which prevents any commands that try to use them.
+ssh localhost
