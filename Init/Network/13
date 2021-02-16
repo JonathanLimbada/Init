@@ -1,1 +1,2 @@
 8.8.8.8.in-addr.arpa.   67965   IN      PTR     dns.google.
+#nslookup <my local ip>
